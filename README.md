@@ -1,3 +1,7 @@
+# 準備 useState 原理的程式碼
+我寫的文章可以參考: [這裏](https://medium.com/p/63b6a360788b)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
